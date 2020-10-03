@@ -12,6 +12,12 @@ include: ["_pages"]
 permalink: /:title/
 #email: wowthemesnet@gmail.com
 
+authors:
+  wzs:
+    name: 吴志嵩
+    display_name: 吴志嵩
+    avatar: 'assets/images/avatar.jpeg'
+
 # Plugins
 plugins:
   - jekyll-paginate

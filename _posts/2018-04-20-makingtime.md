@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Making Time by Jamie Woon"
-author: john
+author: wzs
 categories: [ Music Reviews ]
 image: assets/images/post2/1.jpg
 beforetoc: "与上一张注重的迷幻电子氛围不同，这次的编曲显得精简了不少，当然也有着更精巧的细节。"
