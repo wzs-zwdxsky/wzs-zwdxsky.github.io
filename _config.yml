@@ -1,12 +1,3 @@
 theme: jekyll-theme-minimal
 
-# permalink: /:categories/:year/:month/:day/:title.html
-
-# title:            Main Page        # Site title
-# name:             Zhisong Wu          # Your name
-# avatar:           /theme/img/avatar.jpg   # Path to an avatar image
-
-# baseurl: "/xsky"
-
-include: ["_pages", "_portfolio"]
 
