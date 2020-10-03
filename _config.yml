@@ -1,7 +1,7 @@
 # Site
 name: "wzs's notes"
 title: "wzs's notes"
-description: "吴志嵩的笔记，个人网站，或者博客"
+description: "吴志嵩的音乐笔记，算法笔记与其他评论"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /jekyll-theme-memoirs
