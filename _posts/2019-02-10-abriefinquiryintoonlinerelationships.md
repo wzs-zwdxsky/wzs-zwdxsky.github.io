@@ -12,11 +12,15 @@ toc: true
 流派：Rock，R&B，Electropop
 个人评分：91/100
 
+![](https://github.com/wzs-zwdxsky/wzs-zwdxsky.github.io/blob/main/assets/images/post5/2.jpg?raw=true)
+
 在这张专辑中，The 1975这几个小伙子对上一个摇滚时代的致敬与对这个时代的流行元素的精华的运用，完全有能力让所谓“流行化的摇滚乐”不再成为一个让人唏嘘的名字。同时——暂且不论是不是当下乐界常态——他们也在用自己的声音对这个并没有变得更好的世界抨击讽刺。
 
 开场曲目《Give Your Self a Try》，采样了Joy Division在《Disorder》中的Riff，或者说，致敬崇拜如同Jim Morrison早逝的Ian Curtis；当然，最后到底还是将致敬指向回到了Jim Morrison和那个摇滚力量不容小觑的时代。关于这个时代的摇滚精神，我们最后再提到。
 
 至于《Love It if We Made It》，则是2018年的一大热门单曲，让我们再度得以领略这个时代的种种不堪和不计其数的社会问题。从网络生活中仅仅是为了找个话题而大肆谈论的“Fxxking in the car”“Shooting Heroin”与“Masturbation”，到似乎的确不容忽视的“Immigration”“Fossil fueling”社会问题；从对五月风暴和琼斯镇惨案的回首，再到纽约一男子遭警方锁喉窒息身亡、因用药过量而早逝的Lil Peep、因偷渡溺亡的三岁男孩Alan Kurdi，当然还有对Trump的极力声讨：“I move on her like a bi*ch/ Excited to be incited/ Unrequited house with seven pools/ Thank you Kanye, very cool”，都尽可能地将时下对这个时代每下愈况的证明抛出来。现代世界辜负了我们——从毫无内容的日常生活，到具有戏剧色彩上演的政治闹剧的每个角落，都不免让我们大失所望。“Love it if we made it”，假如这一切终将变得更好，我们会喜欢上这个时代的——但是谁又知道，明天的世界会不会稍微更好呢？希望大概是渺茫的。
+
+![](https://github.com/wzs-zwdxsky/wzs-zwdxsky.github.io/blob/main/assets/images/post5/3.jpg?raw=true)
 
 而机器独白《The Man Who Married a Robot / Love Theme》，让人想起了电影《Her》，也或许最能和专辑标题“Online Relationship”最相切合。对于人与机器——在这首曲目里是互联网——间的感情，在这首歌曲中当然予以了肯定：用大篇幅描绘了似乎与普通人间的情感交流有过之而无不及的“温暖”画面，也特意添加了“Love Theme”的弦乐为主的章节。与此同时，并不否认这种感情实质上是无比孤独的：@SnowflakeSmasher86，因孤独而求助于互联网；遇见互联网后，假如不算上互联网，他无论如何也的确是孑然一身；到最后也孤单地离开世界。当然，或许因为互联网，在他看来，他自己的生命历程总不算是完全地空无一物。这个曲目同时致敬了Radiohead的《Fitter Happier》，虽然矛头确切指向不同，但都运用机器的念白，有力表现了现代生活的某一方面。
 
